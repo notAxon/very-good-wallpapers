@@ -40,4 +40,4 @@
 
 ![wallpaper-theme-converter(5).png](https://www.github.com/notAxon/very-good-wallpapers/blob/main/wallpaper-theme-converter(5).png)
 
-![wallpaper-theme-converter(7).png](https://www.github.com/notAxon/very-good-wallpapers/blob/main/wallpaper-theme-converter(7).png)
+![wallpaper-theme-converter(7).png](https://www.github.com/notAxon/very-good-wallpapers/wallpaper-theme-converter(7).png)
